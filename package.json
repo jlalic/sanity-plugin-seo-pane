@@ -1,6 +1,6 @@
 {
   "name": "@jlalic/sanity-plugin-seo-pane",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Run Yoast's SEO review tools using Sanity data, inside a List View Pane.",
   "keywords": [
     "sanity",
